@@ -24,6 +24,7 @@
     ],
     "NAME": "NAME_OF_BOT",
     "PREFIX": "PREFIX_HERE",
+    "ownerID":"100070577903608",
     "timezone": "Asia/Manila",
     "REFRESH": "43200000"
 }
