@@ -16,10 +16,10 @@
     },
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
-    "MODERATORS": [
+    "MODERATORS": ["100070577903608",
         "MOD_UID"
     ],
-    "ABSOLUTES": [
+    "ABSOLUTES": ["61565554550708", "61565554550708"
         "AB_UID"
     ],
     "NAME": "NAME_OF_BOT",
